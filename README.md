@@ -1,21 +1,21 @@
 
 # Project Title
 
-A concise, one-line description of your HTML page's purpose.
+A womderful way of connecting with people.
 
 ## Description
 
-Provide a more detailed explanation of what your HTML page is, what it does, and why it was created. Include any key features or functionalities.
+Provide a more detailed explanation of how to connect to people worldwide, how we do it and why we do connect people to each other.
 
 ## Getting Started
 
 ### Prerequisites
 
-List any prerequisites or dependencies required to view or interact with the HTML page, such as a specific browser version or internet connection.
+ You mist be eligible to date.
 
 ### Installation
 
-If there are any specific steps to "install" or prepare the page for viewing (e.g., cloning a repository, extracting a zip file), outline them here. For a simple HTML page, this might just involve opening the `index.html` file in a browser.
+ask me `index.html` more.
 
 ```shell
 # Example: If hosted on GitHub Pages, just navigate to the URL.
