@@ -1,7 +1,7 @@
 
 # Project Title
 
-A womderful way of connecting with people.
+A wonderful way of connecting with people.
 
 ## Description
 
@@ -11,7 +11,7 @@ Provide a more detailed explanation of how to connect to people worldwide, how w
 
 ### Prerequisites
 
- You mist be eligible to date.
+ You must be eligible to date.
 
 ### Installation
 
